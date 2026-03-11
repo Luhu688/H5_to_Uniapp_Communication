@@ -1,0 +1,21 @@
+{
+  "name": "h5-to-uniapp-communication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "CY",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "ws": "^8.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

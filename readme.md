@@ -1,8 +1,8 @@
-# h5-to-uniapp-communication
+# H5_to_Uniapp_Communication
 
 ## 项目简介
 
-h5-to-uniapp-communication 是一个基于 WebSocket 的实时通信服务，用于解决 H5 与 uni-app 之间的实时消息传递问题。该服务采用 Node.js 开发，使用 Express 框架提供 HTTP 接口，同时集成 WebSocket 实现实时双向通信，避免了传统 HTTP 轮询需要刷新页面才能获取新消息的问题。
+H5_to_Uniapp_Communication 是一个基于 WebSocket 的实时通信服务，用于解决 H5 与 uni-app 之间的实时消息传递问题。该服务采用 Node.js 开发，使用 Express 框架提供 HTTP 接口，同时集成 WebSocket 实现实时双向通信，避免了传统 HTTP 轮询需要刷新页面才能获取新消息的问题。
 
 ## 技术栈
 
